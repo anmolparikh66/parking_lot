@@ -1,0 +1,9 @@
+create_parking_lot 6
+park MH14-DW-3493 White
+park MH14-DW-002 White
+park MH14-DW-003 Black
+park MH14-DW-004 Red
+park MH14-DW-005 Blue
+park MH14-DW-006 Black
+status
+slot_numbers_for_cars_with_colour White
